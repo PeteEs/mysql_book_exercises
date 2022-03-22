@@ -1,1 +1,3 @@
-# mysql_book_exercises
+👋 Hi, I’m @PeteEs
+
+🌱 I’m currently learning MySQL
