@@ -42,4 +42,17 @@
 
 **SECTION 3**: <br/>
 
-...
+**- CHAPTER 10**: ✔️ <br/>
+*How to design a database* <br/>
+(DATA STRUCTURE, RELATIONSHIPS, NORMALIZATION, EER MODEL)
+
+**- CHAPTER 11**: ✔️ <br/>
+*How to create database, tables, and indexes* <br/>
+(CREATE DATABASE/TABLE, KEYS, ALTER TABLE, RENAME, TRUNCATE, DROP, INDEXES, CHARACTER SETS, STORAGE ENGINES)
+
+**- CHAPTER 12**: ✔️ <br/>
+*How to create views* <br/>
+(CREATE VIEW, UPDATABLE VIEWS, INSERT/DELETE, DROP)
+
+**SECTION 4**: <br/>
+..
