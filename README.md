@@ -2,7 +2,7 @@
 
 -----------------------------------------------------------------------------------------------
 
-**SECTION 1**: <br/>
+**📘 SECTION 1**: <br/>
 
 **- CHAPTER 1**: ✔️ <br/>
 *An introduction to relational databases*
@@ -22,7 +22,7 @@
 *How to insert, update and delete data* <br/>
 (INSERT, UPDATE, DELETE)
 
-**SECTION 2**: <br/>
+**📘 SECTION 2**: <br/>
 
 **- CHAPTER 6**: ✔️ <br/>
 *How to code summary queries* <br/>
@@ -40,7 +40,7 @@
 *How to use functions* <br/>
 (FUNCTIONS FOR STRING & NUMERIC DATA; DATE/TIME; FUNCTIONS LIKE: CASE, IF, IFNULL; REGEX / RANKING / ANALYTIC FUNCS)
 
-**SECTION 3**: <br/>
+**📘 SECTION 3**: <br/>
 
 **- CHAPTER 10**: ✔️ <br/>
 *How to design a database* <br/>
@@ -54,5 +54,26 @@
 *How to create views* <br/>
 (CREATE VIEW, UPDATABLE VIEWS, INSERT/DELETE, DROP)
 
-**SECTION 4**: <br/>
+**📘 SECTION 4**: <br/>
+
+**- CHAPTER 13**: ✔️ <br/>
+*Language skills for writing stored programs* <br/>
+(DECLARE, IF/ELSE/ELSEIF, CASE/WHEN/THEN, LOOPS, CURSORS, ERROS HANDLING)
+
+**- CHAPTER 14**: ✔️ <br/>
+*How to use transactions and locking* <br/>
+(TRANSACTIONS - COMMIT/ROLLBACK, SAVE POINTS, CONCURRENCY, LOCKING)
+
+**- CHAPTER 15**: ✔️ <br/>
+*How to create stored procedures and functions* <br/>
+(IN/OUT/INOUT PARAMETERS, SIGNAL STATEMENT, USER VARIABLES, DYNAMIC SQL, FUNCTION & PROCEDURE)
+
+**- CHAPTER 16**: ✔️ <br/>
+*How to create triggers and events* <br/>
+(AFTER/BEFORE TRIGGERS, EVENTS)
+
+**📘 SECTION 5**: <br/>
+
 ..
+
+
