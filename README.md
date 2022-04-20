@@ -5,10 +5,11 @@
 **📘 SECTION 1**: <br/>
 
 **- CHAPTER 1**: ✔️ <br/>
-*An introduction to relational databases*
+*An introduction to relational databases* <br/>
+(no exercises done)
 
 **- CHAPTER 2**: ✔️ <br/>
-*How to use MySQL Workbench and other development tools*
+*How to use MySQL Workbench and other development tools* <br/>
 
 **- CHAPTER 3**: ✔️ <br/>
 *How to retrieve data from a single table* <br/>
@@ -74,6 +75,14 @@
 
 **📘 SECTION 5**: <br/>
 
-..
+**- CHAPTER 17**: ✔️ <br/>
+*An introduction to database administration*  <br/>
+(STATUS/SYSTEM VARIABLES, GLOBAL/SESSION VARIABLES, LOGS)
 
+**- CHAPTER 18**: ✔️ <br/>
+*How to secure a database*  <br/>
+(USERS, PRIVILEGES, GRANT/REVOKE STATEMENT, ROLES)
 
+**- CHAPTER 19**: ✔️ <br/>
+*How to backup and restore a database*  <br/>
+(EXPORTING DATA TO FILE, LOAD DATA FROM FILE - no exercises done)
